@@ -5,7 +5,7 @@
 - [How to find an external library?](search-packages.md)
 
 - [How to update my local ion?](update.md)
-- [What is a middleware and how can I adapt one?][middleware.md]
+- [What is a middleware and how can I adapt one?](middleware.md)
 - [Is there any middleware list?](middleware-list.md)
 - [How to work with sessions?](sessions.md)
 - [How to work with websockets?](websockets.md)
